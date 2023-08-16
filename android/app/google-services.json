@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109567465713",
+    "project_id": "oflabapp",
+    "storage_bucket": "oflabapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109567465713:android:cf102d0f322dca15f97150",
+        "android_client_info": {
+          "package_name": "com.example.oflabproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109567465713-upf4uebccjtokl9eutllh4fj7jb8jp9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oflabproject",
+            "certificate_hash": "642ef26955ff7f2ebf41429531b6bc72717a0890"
+          }
+        },
+        {
+          "client_id": "109567465713-qiupacsfanoh4ukrvm3fkf602s9cjtve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BxRR5KgZrPQ6LNmBHyBRFb54ga5RcA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109567465713-qiupacsfanoh4ukrvm3fkf602s9cjtve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
